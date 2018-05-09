@@ -169,3 +169,11 @@ section#article2 .btn-primary{
 	background-color: #00345f;
 	border: none;
 }
+
+section#lesfilieres h1 {
+	margin-bottom: 1rem;
+}
+
+section#lesfilieres div.caption p {
+	font-size: 1.7rem;
+}
