@@ -1,0 +1,10 @@
+base:
+  version: 1.x
+  css:
+    theme:
+      css/upjv.css: {}
+      css/arvo-fonts.css: {}
+      css/sansation-fonts.css: {}
+  js:
+    js/upjv.js: {}
+    js/font-awesome.js: {}
