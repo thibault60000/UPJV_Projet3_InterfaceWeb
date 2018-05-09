@@ -162,3 +162,10 @@ header#navbar{
 	color: #FFF;
 	padding: 0.5%;
 }
+
+
+section#article2 .btn-primary{
+	color: #fff;
+	background-color: #00345f;
+	border: none;
+}
