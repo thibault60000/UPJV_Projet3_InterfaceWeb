@@ -24,3 +24,8 @@ et l'importer dans le PhpMyAdmin de votre WAMP, XAMP, MAMP...
 HTML de votre WAMP, XAMP MAMP....
 - Lancez votre navigateur dans localhost/Projet
 - Naviguez à travers les pages Accueil / Contact / UFR / Filière
+
+IDENTIFIANTS
+-----------------------------
+username : root 
+password : root
